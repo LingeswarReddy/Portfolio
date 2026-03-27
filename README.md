@@ -6,7 +6,7 @@ This project showcases my skills, projects, and achievements as a Computer Scien
 ---
 ## 🌐 Live Demo
 
-👉 [View Portfolio](https://lingeswarreddy.github.io/Portfolio/)
+👉 [View Portfolio](https://portfolio-five-ruby-31.vercel.app)
 ## 🚀 About Me
 
 Hi, I'm **Lingeswar Reddy Chagam Reddy** 👋
