@@ -4,7 +4,10 @@ Welcome to my personal portfolio website!
 This project showcases my skills, projects, and achievements as a Computer Science student.
 
 ---
+## 🚀 Live Demo
 
+🔗 Click here to view:  
+👉 https://lingeswarreddy.github.io/Portfolio/
 ## 🚀 About Me
 
 Hi, I'm **Lingeswar Reddy Chagam Reddy** 👋
